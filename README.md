@@ -1,2 +1,3 @@
-# Retail_sales-Dashboard
-Retail Sales &amp; Performance Analyse Dashboard Using Power BI
+# Retail Sales & Performance Analysis Dashboard
+Interactive Business Intelligence Dashboard built using Power BI
+
